@@ -1,4 +1,4 @@
-# FindFalcone
+# Find Falcone
 
 ## Usage
 
