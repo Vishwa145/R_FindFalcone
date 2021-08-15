@@ -1,4 +1,4 @@
-# FindFalcone
+# FindFalcone game
 
 ## Usage
 
