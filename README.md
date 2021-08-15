@@ -1,5 +1,7 @@
 # FindFalcone
 
+try git
+
 ## Usage
 
 ```
